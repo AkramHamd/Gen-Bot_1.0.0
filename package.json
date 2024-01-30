@@ -1,13 +1,13 @@
 {
   "name": "GenBot",
   "version": "1.0.0",
-  "description": "A discord bot account generator made by Rdimo・https://github.com/Rdimo/GenBot",
+  "description": "A discord bot account generator ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "Rdimo#6969",
+  "author": " ",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0",

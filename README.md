@@ -1,14 +1,12 @@
-<p align= center</p><a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://i.imgur.com/cpjB0Ae.png" alt="HazardNuker"></a>
+<p align= center</p><a href=" " target="_blank"><img src="https://i.imgur.com/cpjB0Ae.png" alt="HazardNuker"></a>
 
-<img src="https://img.shields.io/github/watchers/Rdimo/Account-Generator-Discord-bot?color=808080&label=Watchers" alt="shield.png"></a>
-<img src="https://img.shields.io/github/stars/Rdimo/Account-Generator-Discord-bot?color=808080&label=Stars" alt="shield.png"></a>
 
 #### GenBot was made by
 Love ❌
 code ✅
 
 ## 🎭・GenBot
-> Made this bot for my server [CheatAway](https://rdimo.github.io/CheatAway) to generate account simply by just typing a command like !netflix                             
+> Made this bot for my server to generate account simply by just typing a command like !netflix                             
 > It also has a nitro generator, admin command, twitch follow commands, member counter + more other commands like !help and !help [command]
 
 ### 🔖・Requirements
@@ -18,7 +16,8 @@ code ✅
 
 ### 🚀・Getting Started
 ```
-git clone https://github.com/Rdimo/Account-Generator-Discord-bot.git
+git clone https://github.com/AkramHamd/Gen-Bot_1.0.0.git
+
 cd Account-Generator-Discord-bot
 npm i
 ```
@@ -89,6 +88,4 @@ The only Admin command right now is that you can make the bot dm someone a messa
 |🌟Star This Repository If You Liked GenBot!| 
 |-------------------------------------------|
 
-<a href="https://rdimo.github.io/CheatAway/" target="_blank"><img src="https://discordapp.com/api/guilds/864857288584724500/widget.png?style=banner2" alt="Cheataway"/></a>
 
-Created by Rdimo#6969 | https://rdimo.github.io/CheatAway
